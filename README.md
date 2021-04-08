@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @obaid147
 - 👀 I’m interested in Python/Django
-- 🌱 I’m currently learning Django and DjangoRestFramework
+- 🌱 I’m have done multiple projects in Python and Django
+- 🌱 I'm learning DjangoRestFramework
 - 💞️ I’m looking to collaborate on Web Develpoment
 - 📫 How to reach me obaidfayazwani@gmail.com
 
